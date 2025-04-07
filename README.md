@@ -32,7 +32,7 @@ Atualmente desenvolvendo habilidades nas seguintes áreas:
 
 ---
 
-## 📘 Resumo do Módulo 01 - Fundamentos de Cloud Computing
+## 📘 Resumo do 1º laboratório - Fundamentos de Cloud Computing
 
 ### 🌐 Conceitos Iniciais
 
